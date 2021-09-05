@@ -1,0 +1,59 @@
+/* header */
+
+.header{
+    background: #e3f2fd !important;
+}
+
+.mb-60 {
+    margin-bottom: 60px;
+}
+
+.hi-500{
+    height: 500px !important;
+}
+
+.breadcrumb{
+    background: #e9ecef !important;
+}
+
+/* alert */
+
+.alert {
+    width: 1117px;
+    margin: auto;
+    background-color: #D4EDDA;
+}
+
+.alert h4 {
+    color: #1F5F2D;
+}
+
+.alert p {
+    color: #1F5F2D;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+  }
+
+.container1 {
+    width: 650px;
+    margin: auto;
+}
+
+footer{
+    background: #17a2b8;
+}
+
+footer p {
+    margin-top: 15px;
+}
+
+.accordion-flush .accordion-item .accordion-button{
+    background: #f7f7f7;
+    border-radius: 5px;
+}
+
